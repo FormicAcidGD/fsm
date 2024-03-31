@@ -153,20 +153,20 @@ Lat/Long: N41° 41.2', E000° 00.3'
 Elevation: 80 ft
 
 Airport Use: Public`,runwayInfo:[{name1:"18",name2:"36",length:1286,type:"concrete"}],commsInfo:`Traning Centre Tower: 118.500
-Chicago Centre: 124.850`},{code:"TVO",friendlyName:"Tavaro Seabase",groundCallsign:"",towerCallsigns:["Tavaro Approach","Tavaro Director","Tavaro Radar","Tavaro Tower"],hasGround:!1,defaultTowerFrequency:"121.800",defaultGroundFrequency:"",maxAcft:"Amphibian",chartPacks:[],generalInfo:`Location: Grindavik PTFS
+Chicago Centre: 124.850`},{code:"TVO",friendlyName:"Tavaro Seabase",groundCallsign:"",towerCallsigns:["Tavaro Approach","Tavaro Director","Tavaro Radar","Tavaro Tower"],hasGround:!1,defaultTowerFrequency:"121.800",defaultGroundFrequency:"",maxAcft:"Amphibian",chartPacks:[{author:"Official",link:"https://github.com/Treelon/ptfs-charts/tree/main/Grindavik/Tavaro%20Seabase"}],generalInfo:`Location: Grindavik PTFS
 IATA: TVO
 Lat/Long: N41° 50.2', W000° 10.6'
 Elevation: 0 ft
 
 Airport Use: Public`,runwayInfo:[{name1:"4W",name2:"21W",length:1e3,type:"water"}],commsInfo:`Tavaro Tower: 121.800
-Keflavik Control: 126.750`},{code:"SHV",friendlyName:"Sea Haven Seabase",groundCallsign:"",towerCallsigns:["Sea Haven Approach","Sea Haven Director","Sea Haven Radar","Sea Haven Tower"],hasGround:!1,defaultTowerFrequency:"118.625",defaultGroundFrequency:"",maxAcft:"Amphibian",chartPacks:[],generalInfo:`Location: Perth PTFS
-IATA: TVO
+Keflavik Control: 126.750`},{code:"SHV",friendlyName:"Sea Haven Seabase",groundCallsign:"",towerCallsigns:["Sea Haven Approach","Sea Haven Director","Sea Haven Radar","Sea Haven Tower"],hasGround:!1,defaultTowerFrequency:"118.625",defaultGroundFrequency:"",maxAcft:"Amphibian",chartPacks:[{author:"Official",link:"https://github.com/Treelon/ptfs-charts/tree/main/Perth/Sea%20Haven"}],generalInfo:`Location: Perth PTFS
+IATA: SHV
 Lat/Long: N41° 55.7', E000° 09.2'
 Elevation: 0 ft
 
 Airport Use: Public`,runwayInfo:[{name1:"18W",name2:"36W",length:1e3,type:"water"}],commsInfo:`Sea Haven Tower: 118.625
-Perth Centre: 136.250`},{code:"OWO",friendlyName:"Waterloo Seabase",groundCallsign:"",towerCallsigns:["Waterloo Approach","Waterloo Director","Waterloo Radar","Waterloo Tower"],hasGround:!1,defaultTowerFrequency:"118.600",defaultGroundFrequency:"",maxAcft:"Amphibian",chartPacks:[],generalInfo:`Location: Rockford PTFS
-IATA: TVO
+Perth Centre: 136.250`},{code:"OWO",friendlyName:"Waterloo Seabase",groundCallsign:"",towerCallsigns:["Waterloo Approach","Waterloo Director","Waterloo Radar","Waterloo Tower"],hasGround:!1,defaultTowerFrequency:"118.600",defaultGroundFrequency:"",maxAcft:"Amphibian",chartPacks:[{author:"Official",link:"https://github.com/Treelon/ptfs-charts/tree/main/Rockford/Waterloo"}],generalInfo:`Location: Rockford PTFS
+IATA: OWO
 Lat/Long: N41° 40.4', W000° 01.1'
 Elevation: 0 ft
 
